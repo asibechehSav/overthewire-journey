@@ -11,7 +11,7 @@ I'm learning cybersecurity through OverTheWire, starting with the Bandit wargame
 - [x] Bandit Level 3
 - [x] Bandit Level 4
 - [x] Bandit Level 5
-- [ ] Bandit Level 6
+- [x] Bandit Level 6
 
 ## Rules I follow
 - I write about my method and reasoning, never the passwords or flags.
